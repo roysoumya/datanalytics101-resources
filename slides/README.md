@@ -9,3 +9,6 @@ Not all parts of a given presentation is made by me. I have tried to provide pro
 2. Topic : *Semi-supervised Learning techniques and Active Learning*
 I have only provided my segment, which was a part of a panel discussion covering a broader topic titled **Leveraging Unlabeled Data and Environment Access for ML**. In the discussion panel, we also covered recent literature in Transfer learning, Zero-shot learning, Reinforcement Learning(with different variants) and finally, Imitation Learning.
 
+3. Smart India Hackathon 2017 submitted proposals
+3.1 Bag Tracking and Alert System for the Department of Posts, Ministry of Communications
+3.2 Monitoring migratory bird population in India for the Ministry of Environment, Forests and Climate Change
